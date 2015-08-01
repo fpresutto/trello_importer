@@ -1,0 +1,4 @@
+Title,Owner email,Task type,Estimate,Priority,Description,Column name,Creator email,Created at,Subtasks,Comments
+Access landing page when entering example.com (8HH),your_name@youremail.com,Desarrollo,,2,"",Done,client@clientemail.com,2015-07-08T12:02:12+00:00,"",""
+Levantar nueva instancia XYZ (2014),your_name@youremail.com,Operaciones (Otros),,0,Uplooad,Done,client@clientemail.com,2015-07-08T12:54:34+00:00,Setup server;Initial setup;Chef;Capistrano;Configuration DNS;Configuration DNS Example.com;Capistrano Example.com;Chef Example.com,List additional comment
+"Reports generation ""My company""",your_name@youremail.com,Desarrollo,,0,Finish importer. Modify tasks,To Do,client@clientemail.com,2014-04-23T14:59:14+00:00,"",Deadline: Friday 13
